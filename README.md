@@ -70,5 +70,3 @@ uvicorn app.main:app --reload --port 8000
 | POST | /ai/suggest | AI description |
 | GET | /metrics | Observability |
 
-## Video Demo
-[Loom Video Link Here]
